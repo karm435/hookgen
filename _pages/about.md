@@ -4,9 +4,6 @@ title: About
 include_in_header: true
 ---
 
-**Last updated**  
-April 8 2025
-
 # About
 
 ## About Karma Academy

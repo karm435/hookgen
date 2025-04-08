@@ -4,9 +4,6 @@ title: FAQs
 include_in_header: true
 ---
 
-**Last updated**  
-April 8 2025
-
 # Frequently asked questions
 <br>
 

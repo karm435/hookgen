@@ -4,9 +4,6 @@ title: Privacy Policy
 include_in_header: true
 ---
 
-**Last updated**  
-October 19 2020
-
 # Privacy Policy
 <br>
 
@@ -15,7 +12,7 @@ we do not collect any information related to you.
 
 
 ### 1.2 Information you provide to us 
-All the images your provide stays on the device.
+All the data your provide stays on the device.
 <br>
 
 ## 2.0 What Personal Information we collect about you and how we collect it
