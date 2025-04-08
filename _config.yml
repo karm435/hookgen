@@ -1,8 +1,8 @@
 #page title
-page_title                                : InvoEase                                        # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Viral Hook Generator                                        # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 6464482594                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 6744341521                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             : https://apps.apple.com/app/id6464482594                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -10,7 +10,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : InvoEase                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Viral Hook Generator                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : 0                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Easy manage invoices and quotes.
 
@@ -19,13 +19,13 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : InvoEase Team
-your_link                                 : https://www.invoease.com
+your_name                                 : Viral Hook Generator Team
+your_link                                 : https://viralhookgenerator.karmaacademy.com.au
 your_city                                 : Brisbane
 email_address                             : 
 facebook_username                         :                                           
 instagram_username                        :
-twitter_username                          : InvoEaseApp
+twitter_username                          : Viral Hook Generator App
 github_username                           :
 youtube_username                          :
 
@@ -34,59 +34,19 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Invoices
-    description                           : Simplified creation of invoices and keep the invoices with states.
-    fontawesome_icon_name                 : wallet
-
-  - title                                 : Quotes
-    description                           : Simplified creation of quotes and simply convert them to invoices when required.
-    fontawesome_icon_name                 : file-invoice
-
-  - title                                 : Customizable Templates
-    description                           : Choose from beautiful set of customizable templates for invoices.
-    fontawesome_icon_name                 : file-contract
-
-  - title                                 : Manage Clients
-    description                           : Manage your clients easily.
-    fontawesome_icon_name                 : camera
-
-  - title                                 : Manage your servicess
-    description                           : Create line items for your services to quickly add them to the invoices.
-    fontawesome_icon_name                 : folder
-
-  - title                                 : Choose currency
-    description                           : Choose currency of your choice.
-    fontawesome_icon_name                 : dollar-sign
-
-  - title                                 : Tagging
-    description                           : Tag the items for easy find related items.
-    fontawesome_icon_name                 : tag
-
-  - title                                 : iCloud Sync
-    description                           : App support iCloud sync and your data is backed up to iCloud (If iCloud is enabled for the app in settings) and will be synced between devices.
-    fontawesome_icon_name                 : cloud
+  - title                                 : Hooks
+    description                           : AI Generated Simplified creation of hooks.
+    fontawesome_icon_name                 : wallet  
 
   - title                                 : Offline support
-    description                           : App works completly in offline mode. Though you should be a pro user to do that.
+    description                           : Yuo can access your saved hooks in offline mode.
     fontawesome_icon_name                 : globe
 
 faqs                                      :
 
-  - title                                 : How do I search for a Invoice?
-    description                           : You can use the seach box to search the invoice by title.
+  - title                                 : How do I create new hooks?
+    description                           : Just enter your idea in the textarea on home screen and hit generate hooks.
     fontawesome_icon_name                 : search
-
-  - title                                 : Installed app on a new device and it is not showing my data?
-    description                           : Sometime iCloud does not trigger the refresh. Navigate to Settings -> Apple Id Account -> iCloud. After that just come back to the app and you should see the data.
-    fontawesome_icon_name                 : users
-
-  - title                                 : Do I loose all my ivoices if I delete the app?
-    description                           : Your data is backed up to your own iCloud and will only be deleted if you Turn off the iCloud sync.
-    fontawesome_icon_name                 : eraser
-
-  - title                                 : How do I delete a Invoice?
-    description                           : You can delete an Invoice unless it is not sent.
-    fontawesome_icon_name                 : trash
 
   - title                                 : How do I contact for support?
     description                           : You can post on the twitter @CodeWithKarma or you can try to send an email from the app and I will try to respond. 

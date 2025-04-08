@@ -5,15 +5,15 @@ include_in_header: true
 ---
 
 **Last updated**  
-September 23 2022
+April 8 2025
 
 # About
 
 ## About Karma Academy
 Karma Academy is an Australian-registered business. It develops apps for Apple technologies. 
 
-## About InvoEase
-Karma Academy owns InvoEase’, an app which helps users to create invoices. Manage clients and line items while choosing a currency of it's own.
+## About Viral Hook Generator
+Karma Academy owns Viral Hook Generator’, an app which helps users to create hooks for social media. 
 
 ## Contact
 You can react to support from in app email for any quries and support.

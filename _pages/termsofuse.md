@@ -4,7 +4,7 @@ title: Terms of Use
 include_in_header: true
 ---
 
-Please read these Terms of Use, including those set forth in the Privacy Policy ("Terms", "Terms of Use") carefully before using the InvoEase application (the "App") made available by Karma Academy pty ltd ("us", "we", or "our").
+Please read these Terms of Use, including those set forth in the Privacy Policy ("Terms", "Terms of Use") carefully before using the Viral Hook Generator application (the "App") made available by Karma Academy pty ltd ("us", "we", or "our").
 Your access to and use of the App is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who wish to access or use the App.
 
 # Subscription Payments, Renewals, and Cancellation
@@ -17,7 +17,7 @@ Karma Academy pty ltd does not send invoices to customers that purchase a Subscr
 
 # Trial Subscriptions
 
-The App may offer you a free trial subscription period during which you can use all features of the App for a limited period of time. If you fail to cancel your free trial subscription, you agree to be billed according to the terms set forth in the section of these terms entitled "Subscription Payments, Renewals, and Cancellation".
+The App does not provide free trial period but does provide access to limited free creation of the hooks in the app.
 
 # Fee Changes
 
