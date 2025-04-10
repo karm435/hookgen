@@ -11,7 +11,7 @@ include_in_header: true
 Just enter the idea in the textbox and hit the generate new hook button. A list of hooks will be presented.
 
 ## How do I contact support?
-You can reach out to support via email at support@karmaacademy.com.au
+You can reach out to support via email at support@karmaacademy.com.au or you can reach out to support directly from within the app. Tap on the gear icon on the top right and tap on contact support to send an email. 
 
 ## What happens to data when I delete the app?
 All the data is saved on user device and it will be deleted once user deletes the app. 
